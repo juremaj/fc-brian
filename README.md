@@ -10,3 +10,5 @@ conda install -c conda-forge brian2
 conda install -c conda-forge networkx
 
 ```
+
+To speed up simulations Microsoft Visual C++ 14.0 or greater is required.
